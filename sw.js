@@ -1,4 +1,4 @@
-const CACHE_NAME = 'dayan-shifa-v2';
+const CACHE_NAME = 'dayan-shifa-v3';
 const PRECACHE = [
   '/manifest.webmanifest',
   '/icon-192.png',
